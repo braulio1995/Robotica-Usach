@@ -1,5 +1,6 @@
 // Autores:
 // Julio Cesar Fuentealba Concha
+// Braulio Ignacio Bustos Aviles
 
 // Ingenieria de Ejecucion Mecanica
 // Laboratorio de Topico de especialidad: Robotica
